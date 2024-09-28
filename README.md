@@ -1,2 +1,2 @@
-# piano-project
+# Piano-project
 using visual studio code
